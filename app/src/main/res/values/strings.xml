@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fast Task</string>
+    <string name="btn_add_task">Add Task</string>
+    <string name="actionbar_task_form">New task</string>
+    <string name="toolbar_calendar">Calendar</string>
+    <string name="lbl_speak">Speak</string>
+    <string name="lbl_stop">Stop</string>
+    <string name="lbl_finish">Finish</string>
+    <string name="lbl_message">Message</string>
+    <string name="lbl_image">Image</string>
+    <string name="lbl_preview">Preview</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_calendar">Calendar</string>
+    <string name="menu_today">Today</string>
+    <string name="title_today">Today</string>
+    <string name="error_is_empty">Field is empty</string>
+    <string name="menu_delete">Delete</string>
+</resources>
